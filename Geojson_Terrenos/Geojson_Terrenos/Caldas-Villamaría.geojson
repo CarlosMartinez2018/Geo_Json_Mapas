@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Caldas-Villamaría",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "17", "DPTO_CNMBR": "Caldas", "MPIO_CDPMP": "17873", "MPIO_CNMBR": "Villamaría", "area_terre": 152338.56229900001, "concat_iup": "Caldas-Villamaría-6668237099", "estado": "LEVANTAMIENTO", "qr_opera_1": "6668237099", "usuario_po": "Edicion_SantaRosa_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.55724, 4.92415 ], [ -75.55737, 4.92411 ], [ -75.55739, 4.92415 ], [ -75.55724, 4.92415 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "17", "DPTO_CNMBR": "Caldas", "MPIO_CDPMP": "17873", "MPIO_CNMBR": "Villamaría", "area_terre": 152338.56229900001, "concat_iup": "Caldas-Villamaría-6668209938", "estado": "LEVANTAMIENTO", "qr_opera_1": "6668209938", "usuario_po": "Edicion_SantaRosa_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.55724, 4.92415 ], [ -75.55737, 4.92411 ], [ -75.55739, 4.92415 ], [ -75.55724, 4.92415 ] ] ] } }
+]
+}

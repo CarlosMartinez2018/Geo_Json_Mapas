@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Boyacá-Zetaquira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "15", "DPTO_CNMBR": "Boyacá", "MPIO_CDPMP": "15897", "MPIO_CNMBR": "Zetaquira", "area_terre": 2913.8059267799999, "concat_iup": "Boyacá-Zetaquira-1562103811", "estado": "LEVANTAMIENTO", "qr_opera_1": "1562103811", "usuario_po": "Captura_Rondon_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.21343, 5.30553 ], [ -73.21373, 5.30542 ], [ -73.21384, 5.30565 ], [ -73.21358, 5.30587 ], [ -73.21357, 5.30586 ], [ -73.21326, 5.30604 ], [ -73.21343, 5.30553 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "15", "DPTO_CNMBR": "Boyacá", "MPIO_CDPMP": "15897", "MPIO_CNMBR": "Zetaquira", "area_terre": 86201.419169700006, "concat_iup": "Boyacá-Zetaquira-1562103812", "estado": "LEVANTAMIENTO", "qr_opera_1": "1562103812", "usuario_po": "Captura_Rondon_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.20949, 5.30876 ], [ -73.21069, 5.30808 ], [ -73.21075, 5.30815 ], [ -73.20943, 5.30923 ], [ -73.20949, 5.30876 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "15", "DPTO_CNMBR": "Boyacá", "MPIO_CDPMP": "15897", "MPIO_CNMBR": "Zetaquira", "area_terre": 12681.8515873, "concat_iup": "Boyacá-Zetaquira-1562103813", "estado": "LEVANTAMIENTO", "qr_opera_1": "1562103813", "usuario_po": "Captura_Rondon_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.2084, 5.31006 ], [ -73.20831, 5.31013 ], [ -73.20829, 5.3101 ], [ -73.2084, 5.31006 ] ] ] } }
+]
+}

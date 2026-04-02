@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Córdoba-Chimá",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "23", "DPTO_CNMBR": "Córdoba", "MPIO_CDPMP": "23168", "MPIO_CNMBR": "Chimá", "area_terre": 328872.51931399998, "concat_iup": "Córdoba-Chimá-None", "estado": "LEVANTAMIENTO", "qr_opera_1": null, "usuario_po": "brian.torres_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.73832, 9.10764 ], [ -75.73974, 9.11333 ], [ -75.73912, 9.11303 ], [ -75.73792, 9.11108 ], [ -75.73778, 9.11002 ], [ -75.73748, 9.10919 ], [ -75.73695, 9.1088 ], [ -75.73711, 9.10761 ], [ -75.73832, 9.10764 ] ] ] } }
+]
+}

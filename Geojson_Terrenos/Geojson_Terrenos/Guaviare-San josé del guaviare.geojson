@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Guaviare-San josé del guaviare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "95", "DPTO_CNMBR": "Guaviare", "MPIO_CDPMP": "95001", "MPIO_CNMBR": "San josé del guaviare", "area_terre": 100708.04114, "concat_iup": "Guaviare-San josé del guaviare-9500100002", "estado": "LEVANTAMIENTO", "qr_opera_1": "9500100002", "usuario_po": "Captura_Guaviare_SIP_1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.84931, 2.56732 ], [ -72.84911, 2.56714 ], [ -72.84856, 2.5661 ], [ -72.84836, 2.56566 ], [ -72.84828, 2.56543 ], [ -72.84824, 2.56513 ], [ -72.84837, 2.56381 ], [ -72.84839, 2.5632 ], [ -72.85081, 2.5638 ], [ -72.85062, 2.56702 ], [ -72.84931, 2.56732 ] ] ] } }
+]
+}
