@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Meta-San carlos de guaroa",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "DPTO_CCDGO": "50", "DPTO_CNMBR": "Meta", "MPIO_CDPMP": "50680", "MPIO_CNMBR": "San carlos de guaroa", "area_terre": 417594.45854899997, "concat_iup": "Meta-San carlos de guaroa-5057320586", "estado": "POSTPROCESO", "qr_opera_1": "5057320586", "usuario_po": "Edicion_ZFPuertoLopez_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.18081, 3.74553 ], [ -73.18123, 3.74556 ], [ -73.18143, 3.7459 ], [ -73.18134, 3.74595 ], [ -73.1808, 3.74553 ], [ -73.18081, 3.74553 ] ] ] } }
-]
-}

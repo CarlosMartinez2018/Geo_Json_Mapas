@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Boyacá-Pachavita",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "DPTO_CCDGO": "15", "DPTO_CNMBR": "Boyacá", "MPIO_CDPMP": "15511", "MPIO_CNMBR": "Pachavita", "area_terre": 10140.0366223, "concat_iup": "Boyacá-Pachavita-1584207422", "estado": "LEVANTAMIENTO", "qr_opera_1": "1584207422", "usuario_po": "Captura_Umbita_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.40303, 5.20555 ], [ -73.40354, 5.20471 ], [ -73.40305, 5.20564 ], [ -73.40303, 5.20555 ] ] ] } }
-]
-}

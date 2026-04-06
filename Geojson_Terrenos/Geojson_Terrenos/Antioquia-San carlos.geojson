@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Antioquia-San carlos",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "DPTO_CCDGO": "05", "DPTO_CNMBR": "Antioquia", "MPIO_CDPMP": "05649", "MPIO_CNMBR": "San carlos", "area_terre": 234243.25423799999, "concat_iup": "Antioquia-San carlos-0558507523", "estado": "LEVANTAMIENTO", "qr_opera_1": "0558507523", "usuario_po": "Edicion_Antioquia_SIP" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -74.73778, 6.2082 ], [ -74.73792, 6.20838 ], [ -74.73758, 6.20863 ], [ -74.73721, 6.20901 ], [ -74.73704, 6.20916 ], [ -74.73689, 6.20928 ], [ -74.73673, 6.20944 ], [ -74.73669, 6.20956 ], [ -74.73664, 6.20971 ], [ -74.7363, 6.21001 ], [ -74.73532, 6.21065 ], [ -74.73413, 6.21126 ], [ -74.73771, 6.20817 ], [ -74.73778, 6.2082 ] ] ], [ [ [ -74.73342, 6.21191 ], [ -74.73329, 6.21219 ], [ -74.73306, 6.21236 ], [ -74.73283, 6.21254 ], [ -74.73274, 6.21247 ], [ -74.73357, 6.21174 ], [ -74.73342, 6.21191 ] ] ] ] } }
-]
-}

@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Atlántico-Barranquilla",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "DPTO_CCDGO": "08", "DPTO_CNMBR": "Atlántico", "MPIO_CDPMP": "08001", "MPIO_CNMBR": "Barranquilla", "area_terre": 766670.50718399999, "concat_iup": "Atlántico-Barranquilla-0857305219", "estado": "POSTPROCESO", "qr_opera_1": "0857305219", "usuario_po": "Captura_PuertoColombia_SIP_1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.89803, 10.97822 ], [ -74.8982, 10.9779 ], [ -74.89829, 10.97746 ], [ -74.89861, 10.97715 ], [ -74.90026, 10.97637 ], [ -74.90067, 10.97601 ], [ -74.90117, 10.97611 ], [ -74.89784, 10.97863 ], [ -74.89803, 10.97822 ] ] ] } }
-]
-}
