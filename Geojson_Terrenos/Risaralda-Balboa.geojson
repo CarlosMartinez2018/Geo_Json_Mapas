@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Risaralda-Balboa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "66", "DPTO_CNMBR": "Risaralda", "MPIO_CDPMP": "66075", "MPIO_CNMBR": "Balboa", "concat_iup": "Risaralda-Balboa-6607500510", "qr_opera_1": "6607500510" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.97126, 4.96311 ], [ -75.97114, 4.9631 ], [ -75.97113, 4.9631 ], [ -75.97106, 4.96311 ], [ -75.97096, 4.96312 ], [ -75.97076, 4.96317 ], [ -75.97043, 4.96312 ], [ -75.96987, 4.96301 ], [ -75.96973, 4.96295 ], [ -75.96952, 4.96284 ], [ -75.96937, 4.96276 ], [ -75.96946, 4.96264 ], [ -75.97149, 4.96315 ], [ -75.97139, 4.96315 ], [ -75.97133, 4.96313 ], [ -75.97132, 4.96313 ], [ -75.97126, 4.96311 ] ] ] } }
+]
+}

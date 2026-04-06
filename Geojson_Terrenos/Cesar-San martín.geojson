@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cesar-San martín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "20", "DPTO_CNMBR": "Cesar", "MPIO_CDPMP": "20770", "MPIO_CNMBR": "San martín", "area_terre": 324336.74116199999, "concat_iup": "Cesar-San martín-5449802876", "estado": "LEVANTAMIENTO", "qr_opera_1": "5449802876", "usuario_po": "Edicion_Abrego_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.41149, 8.10036 ], [ -73.41198, 8.10029 ], [ -73.41151, 8.1006 ], [ -73.41149, 8.10036 ] ] ] } }
+]
+}

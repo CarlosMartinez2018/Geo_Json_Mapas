@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Caquetá-San josé del fragua",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "18", "DPTO_CNMBR": "Caquetá", "MPIO_CDPMP": "18610", "MPIO_CNMBR": "San josé del fragua", "area_terre": 35789.699106300002, "concat_iup": "Caquetá-San josé del fragua-1953300400", "estado": "POSTPROCESO", "qr_opera_1": "1953300400", "usuario_po": "Edicion_Piamonte_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.27128, 1.13068 ], [ -76.27232, 1.13122 ], [ -76.27219, 1.13135 ], [ -76.27251, 1.13159 ], [ -76.27307, 1.13162 ], [ -76.27323, 1.1317 ], [ -76.27349, 1.13188 ], [ -76.27329, 1.13184 ], [ -76.27244, 1.13182 ], [ -76.27224, 1.13197 ], [ -76.27214, 1.13196 ], [ -76.27173, 1.13169 ], [ -76.27152, 1.13144 ], [ -76.27144, 1.13136 ], [ -76.27128, 1.13132 ], [ -76.27112, 1.13124 ], [ -76.27099, 1.13108 ], [ -76.271, 1.13093 ], [ -76.27128, 1.13068 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santander-Bolívar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "68", "DPTO_CNMBR": "Santander", "MPIO_CDPMP": "68101", "MPIO_CNMBR": "Bolívar", "concat_iup": "Santander-Bolívar-6810125149", "qr_opera_1": "6810125149" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.19525, 6.08925 ], [ -74.19534, 6.08905 ], [ -74.19543, 6.08923 ], [ -74.19525, 6.08925 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Bolívar-Río viejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "13", "DPTO_CNMBR": "Bolívar", "MPIO_CDPMP": "13600", "MPIO_CNMBR": "Río viejo", "concat_iup": "Bolívar-Río viejo-<NA>", "qr_opera_1": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.75512, 8.44288 ], [ -73.75466, 8.44298 ], [ -73.75482, 8.44245 ], [ -73.75512, 8.44288 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "13", "DPTO_CNMBR": "Bolívar", "MPIO_CDPMP": "13600", "MPIO_CNMBR": "Río viejo", "concat_iup": "Bolívar-Río viejo-<NA>", "qr_opera_1": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.75477, 8.4434 ], [ -73.75438, 8.44325 ], [ -73.75466, 8.44298 ], [ -73.75477, 8.4434 ] ] ] } }
+]
+}

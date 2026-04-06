@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Santander-Málaga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "68", "DPTO_CNMBR": "Santander", "MPIO_CDPMP": "68432", "MPIO_CNMBR": "Málaga", "area_terre": 135016.803961, "concat_iup": "Santander-Málaga-6866900327", "estado": "POSTPROCESO", "qr_opera_1": "6866900327", "usuario_po": "Edicion_SanAndres_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.75648, 6.75948 ], [ -72.75692, 6.76135 ], [ -72.75652, 6.76141 ], [ -72.75648, 6.75948 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "68", "DPTO_CNMBR": "Santander", "MPIO_CDPMP": "68432", "MPIO_CNMBR": "Málaga", "area_terre": 38477.084648099997, "concat_iup": "Santander-Málaga-6866900411", "estado": "POSTPROCESO", "qr_opera_1": "6866900411", "usuario_po": "Edicion_SanAndres_SIP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.75747, 6.76468 ], [ -72.75732, 6.7646 ], [ -72.75719, 6.76455 ], [ -72.7571, 6.76447 ], [ -72.75703, 6.76437 ], [ -72.75701, 6.76419 ], [ -72.75703, 6.76405 ], [ -72.75702, 6.76397 ], [ -72.75701, 6.76391 ], [ -72.75697, 6.76379 ], [ -72.75697, 6.76356 ], [ -72.75699, 6.76336 ], [ -72.757, 6.7632 ], [ -72.75699, 6.7631 ], [ -72.75698, 6.76302 ], [ -72.75725, 6.76299 ], [ -72.75731, 6.76298 ], [ -72.75769, 6.76455 ], [ -72.75767, 6.76464 ], [ -72.75747, 6.76468 ] ] ] } }
+]
+}

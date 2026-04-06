@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bolívar-Achí",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "13", "DPTO_CNMBR": "Bolívar", "MPIO_CDPMP": "13006", "MPIO_CNMBR": "Achí", "concat_iup": "Bolívar-Achí-1300600003", "qr_opera_1": "1300600003" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.59853, 8.73516 ], [ -74.5988, 8.7342 ], [ -74.60281, 8.73556 ], [ -74.60215, 8.73617 ], [ -74.59853, 8.73516 ] ] ] } }
+]
+}

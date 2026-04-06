@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Cundinamarca-Junín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "25", "DPTO_CNMBR": "Cundinamarca", "MPIO_CDPMP": "25372", "MPIO_CNMBR": "Junín", "concat_iup": "Cundinamarca-Junín-2537202945", "qr_opera_1": "2537202945" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.67941, 4.60835 ], [ -73.6791, 4.60973 ], [ -73.67767, 4.60949 ], [ -73.67806, 4.60833 ], [ -73.67941, 4.60835 ] ] ] } },
+{ "type": "Feature", "properties": { "DPTO_CCDGO": "25", "DPTO_CNMBR": "Cundinamarca", "MPIO_CDPMP": "25372", "MPIO_CNMBR": "Junín", "concat_iup": "Cundinamarca-Junín-<NA>", "qr_opera_1": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.67919, 4.60944 ], [ -73.67819, 4.61002 ], [ -73.67779, 4.60913 ], [ -73.67919, 4.60944 ] ] ] } }
+]
+}
